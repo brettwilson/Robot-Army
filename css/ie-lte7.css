@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* IE lte 7 CSS Document */
+#socialNav li{
+	display:inline;
+}
+
+.gallery{
+	height:299px;
+}
+.flex-caption{
+	background:#000 !important;
+}
+
+.oneForth{
+	margin-right:2%;
+}
+
+#toTop{
+	background:#FFF;
+}

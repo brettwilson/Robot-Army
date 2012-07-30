@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* all IE CSS Document */
+
+h1, h2, .sti-menu li a h2, h3{
+	font-family:Verdana, Geneva, sans-serif !important;
+}
+
+h1{
+	font-size:28px;
+}
+h2{
+	font-size:22px;
+}
+.sti-menu li a h2{
+	font-size:18px;
+	top:0;
+}
+h3{
+	font-size:18px;
+}
